@@ -1,0 +1,51 @@
+
+.container-flow{
+	display: block;
+	background-color: #87AFA3;
+	border-radius: 0px;
+	margin-left: 0px;
+	box-sizing: content-box;
+
+}
+div.navbar{
+	text-align: center;
+	width: inherit;
+}
+div.navbar-brand{
+	width: inherit;
+	text-align: center;
+	font-size: 45px;
+	font-stretch: expanded;
+	font-weight: lighter;
+	text-shadow: 2px 2px 2px;
+	text-rendering: geometricPrecision;
+	color: #867979; 
+	}
+.jumbotron{
+	background: url("") no-repeat center;
+	height: 350px;
+	border-radius: 0px;
+}
+.display-4{
+
+}
+#image{
+	margin-bottom: 15px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.btn-secondary{
+	color: orange;
+	background-color: white;
+	border-color: grey;
+	border : 1px;
+}
+.btn-secondary:hover{
+	color: white;
+	background-color: orange;
+	}
+.show>.btn-secondary.dropdown-toggle {
+    color: white;
+    background-color: orange;
+    border-color: #4e555b;
+}
